@@ -1,2 +1,21 @@
-body {
-}
+/*
+Theme Name: OCA.LA Theme
+Theme URI: https://github.com/NesarAhmedRazon/Oca.La-Theme
+Author: Nesar Ahmed
+Author URI: https://github.com/NesarAhmedRazon/
+Description: Build for Oca.la a Los Angeles based architecture, fabrication & construction agency.
+Requires at least: 5.9
+Requires PHP: 5.6
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: oca_la_theme
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, sticky-post, threaded-comments
+
+*/
+
+/*
+ * Font smoothing.
+ * This is a niche setting that will not be available via Global Styles.
+ * https://github.com/WordPress/gutenberg/issues/35934
+ */
